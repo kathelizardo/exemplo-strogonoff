@@ -1,0 +1,32 @@
+h1 {
+    color:#FFB300; font-weight: bold; font-size: 89px; line-height: 79px; }
+
+h2 {
+    color:black; font-weight: bold;font-size: 21px; text-align: right;
+}
+
+ Section p {
+    color:black; font-weight:lighter; font-size: 21px; line-height: 1.61;
+    
+}
+ Section {
+    padding-bottom: 34px;
+    
+ } 
+p.mid {font-size: 34px; }
+
+h3 {color:#FFB300; font-weight: bold; font-size: 34px;
+ }
+h4 { font-weight:bold ; font-size: 32px}
+
+ul {font-size: 21px; font-weight: lighter; line-height:1.61;}
+
+ol {font-weight:lighter; font-size: 21px; line-height:1.61;}
+
+footer {color:#0037B3; font-weight:bold; font-size: 21px;}
+
+
+
+
+
+
